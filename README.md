@@ -1,0 +1,2 @@
+# Studnet-Enrollment-System
+It is a student enrollment system made with XAMPP software and a CLI-based MySql application. The method can be used to collect all of the information needed for college or university admissions. This system was designed to help college administration operate more efficiently when enrolling students and administering their courses. The overall goal of an enrollment system is to assist admission teams with enrolling more students in one location, both online and offline.
